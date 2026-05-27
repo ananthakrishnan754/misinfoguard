@@ -129,12 +129,9 @@ All 27 tests pass (text encoder, image encoder, fusion classifier).
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here -->
 | Feed | Detail | Dashboard | Settings |
 |------|--------|-----------|----------|
-| `screenshots/feed.png` | `screenshots/detail.png` | `screenshots/dashboard.png` | `screenshots/settings.png` |
-
-> Create a `screenshots/` directory and add screen captures of the app running on your device.
+| ![Feed](img/WhatsApp%20Image%202026-05-27%20at%2011.12.22%20PM.jpeg) | ![Detail](img/WhatsApp%20Image%202026-05-27%20at%2011.12.23%20PM.jpeg) | ![Dashboard](img/WhatsApp%20Image%202026-05-27%20at%2011.12.24%20PM.jpeg) | — |
 
 ---
 
@@ -162,11 +159,11 @@ All 27 tests pass (text encoder, image encoder, fusion classifier).
 
 ## 👤 Contact
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🐙 [github.com/your-username](https://github.com/your-username)
+**Ananthakrishnan**  
+📧 ananthakrishnan754@gmail.com  
+🔗 [linkedin.com/in/ananthakrishnan754](https://linkedin.com/in/ananthakrishnan754)  
+🐙 [github.com/ananthakrishnan754](https://github.com/ananthakrishnan754)
 
 ---
 
-> *Built as a college mini-project for demonstrating end-to-end ML system design.*
+> *Built for college students in Mangalore — demonstrating end-to-end ML system design.*
